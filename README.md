@@ -5,7 +5,6 @@
 - 📫 My personal website: https://shehan807.github.io/
 
 # 🔬 Research TL;DRs
-
 - Ionic liquids (ILs) are room-temperature "molten salts" with promise as...
     - 🚀 **In-Space Propellants** — *Hydrogen bonding* governs bulk-phase structure in [binary mixtures](https://pubs.acs.org/doi/10.1021/acs.jpcb.3c02649), [aqueous solutions](https://pubs.acs.org/doi/full/10.1021/acs.jpcb.3c05623), and [under electric fields](https://link.springer.com/article/10.1007/s44205-022-00010-1).
     - 🔋 **Battery Electrolytes** — *Scattering structure factors* reveal [short- and long-range structure](https://pubs.acs.org/doi/10.1021/acs.jpcb.4c06255).
